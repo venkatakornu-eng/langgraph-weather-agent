@@ -545,7 +545,7 @@ This internship project demonstrates practical experience with:
 ---
 ## Results 
 
-![results]("Images/pic.png")
+![Results](Images/pic.png)
 
 ## 👨‍💻 Author
 
